@@ -110,4 +110,55 @@ This Kotlin application features a chatbot designed to assist users with various
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+## Install Required Libraries
+Make sure you have Python installed. If not, install it from the official Python website.
 
+Once you have Python installed, you can install the required libraries for your Flask app by using pip. Assuming you already have a requirements.txt file or want to manually install each dependency, follow these steps:
+
+# Flask Application Setup Guide
+
+## Install Required Libraries
+
+Make sure you have Python installed. If not, install it from the official Python website.
+
+Once you have Python installed, you can install the required libraries for your Flask app by using `pip`. Assuming you already have a `requirements.txt` file or want to manually install each dependency, follow these steps:
+
+### Option 1: Using `requirements.txt`
+
+If you have a `requirements.txt` file that lists all the dependencies for your Flask application, simply run the following command to install them:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Option 2: Manually Installing Dependencies
+
+You can manually install each required library as listed below:
+
+* **Flask**: For creating the web app.
+  ```bash
+  pip install Flask
+  ```
+
+* **pandas**: For handling data (used for CSV or Excel file processing).
+  ```bash
+  pip install pandas
+  ```
+
+* **matplotlib**: For generating graphs or tables in your Flask app.
+  ```bash
+  pip install matplotlib
+  ```
+
+* **openpyxl**: For reading and writing Excel files (optional if you're working with `.xlsx` files).
+  ```bash
+  pip install openpyxl
+  ```
+
+* **io**: This is a built-in Python library, so you don't need to install it separately.
+* **base64**: Also a built-in Python library, no need to install.
+* **re**: A built-in module for working with regular expressions.
+
+## SSH for Port Tunneling
+
+You don't need to install anything for SSH port tunneling as it's built into most Unix-based systems like Linux and macOS. For Windows, you can use tools like PuTTY or install OpenSSH.
