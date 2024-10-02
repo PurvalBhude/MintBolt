@@ -52,7 +52,7 @@ This Kotlin application features a chatbot designed to assist users with various
 
 ## API Endpoints
 
-### Local API Endpoints
+### Few Local API Endpoints
 
 1. **/chat**
    - **Method**: `POST`
