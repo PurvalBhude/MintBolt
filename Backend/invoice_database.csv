@@ -1,0 +1,501 @@
+employee_id,amount,date,location,invoice_id,type,vendor
+1000,1012,13-01-2024,Sec 3,356787,Transport,Ola
+1000,939,14-02-2024,Sec 5,542417,Food,Dominos
+1000,867,21-04-2024,Sec 2,629903,Miscellaneous,Amazon
+1000,4697,11-04-2024,Sec 5,539898,Transport,BlaBlaCar
+1000,4927,22-05-2024,Sec 1,895667,Transport,BlaBlaCar
+1000,2887,22-05-2024,Sec 2,325772,Medicine,Tata 1mg
+1000,859,13-07-2024,Sec 1,476417,Medicine,1mg Pharmacy
+1000,2266,23-01-2024,Sec 4,662275,Food,Pizza Hut
+1000,745,30-05-2024,Sec 5,479201,Miscellaneous,Flipkart
+1000,669,24-01-2024,Sec 2,910620,Medicine,Tata 1mg
+1000,2007,21-02-2024,Sec 4,391476,Electronics,Vijay Sales
+1000,1432,08-07-2024,Sec 3,319684,Medicine,Tata 1mg
+1000,1501,30-09-2024,Sec 2,271339,Electronics,Mi Store
+1000,2311,22-04-2024,Sec 3,983794,Food,McDonald's
+1000,362,10-06-2024,Sec 4,380746,Food,McDonald's
+1000,4746,10-06-2024,Sec 2,787277,Electronics,Mi Store
+1000,3858,14-03-2024,Sec 3,246413,Transport,Lyft
+1000,4515,14-05-2024,Sec 5,549245,Miscellaneous,Myntra
+1000,3065,22-04-2024,Sec 2,634277,Electronics,Croma
+1000,485,26-02-2024,Sec 2,757924,Transport,BlaBlaCar
+1000,4985,02-02-2024,Sec 4,500156,Miscellaneous,Myntra
+1000,4434,08-05-2024,Sec 5,112038,Food,Subway
+1000,2285,23-06-2024,Sec 1,407757,Electronics,Reliance Digital
+1000,3816,02-01-2024,Sec 3,624902,Transport,Lyft
+1000,971,01-06-2024,Sec 5,738551,Transport,Ola
+1000,3163,23-03-2024,Sec 5,916449,Miscellaneous,Amazon
+1000,2755,07-09-2024,Sec 1,217301,Medicine,Netmeds
+1000,2061,30-01-2024,Sec 2,694916,Food,Dominos
+1000,4081,05-02-2024,Sec 5,903035,Transport,Ola
+1000,3993,25-03-2024,Sec 3,653306,Miscellaneous,Myntra
+1000,1835,12-04-2024,Sec 3,518373,Medicine,MedPlus
+1000,4339,19-08-2024,Sec 1,359947,Transport,Uber
+1000,2869,11-01-2024,Sec 5,680828,Transport,Lyft
+1000,1904,04-01-2024,Sec 1,842225,Food,McDonald's
+1000,652,17-01-2024,Sec 3,174299,Miscellaneous,Flipkart
+1000,2381,05-09-2024,Sec 2,665427,Transport,Lyft
+1000,4820,30-08-2024,Sec 2,922733,Electronics,Mi Store
+1000,1659,18-02-2024,Sec 1,790993,Electronics,Vijay Sales
+1000,3569,29-07-2024,Sec 4,864491,Food,Dominos
+1000,596,25-07-2024,Sec 3,939482,Food,McDonald's
+1000,1669,07-04-2024,Sec 5,570405,Transport,BlaBlaCar
+1000,1603,22-05-2024,Sec 4,361941,Food,Pizza Hut
+1000,4608,20-02-2024,Sec 1,783823,Miscellaneous,Amazon
+1000,864,01-05-2024,Sec 2,526156,Electronics,Mi Store
+1000,1851,24-07-2024,Sec 1,272634,Electronics,Croma
+1000,3298,15-05-2024,Sec 4,399105,Electronics,Samsung Store
+1000,4086,20-03-2024,Sec 2,411120,Transport,Uber
+1000,4844,01-02-2024,Sec 3,159942,Food,Subway
+1000,4005,14-09-2024,Sec 5,265080,Food,Subway
+1000,756,05-04-2024,Sec 1,723939,Food,McDonald's
+1000,3407,02-03-2024,Sec 5,358175,Miscellaneous,Jabong
+1000,425,11-02-2024,Sec 4,789305,Miscellaneous,Jabong
+1000,4382,10-06-2024,Sec 3,314181,Medicine,Apollo Pharmacy
+1000,2275,21-07-2024,Sec 2,804318,Medicine,MedPlus
+1000,2690,07-02-2024,Sec 1,580547,Miscellaneous,Jabong
+1000,919,07-02-2024,Sec 5,323508,Miscellaneous,Snapdeal
+1000,1185,27-06-2024,Sec 1,356150,Medicine,Netmeds
+1000,1392,12-08-2024,Sec 5,837715,Medicine,1mg Pharmacy
+1000,4433,05-01-2024,Sec 5,413921,Food,McDonald's
+1000,2266,29-02-2024,Sec 1,878480,Miscellaneous,Flipkart
+1000,2331,24-05-2024,Sec 5,320861,Medicine,Apollo Pharmacy
+1000,2262,15-09-2024,Sec 4,363319,Food,Dominos
+1000,3569,21-05-2024,Sec 1,103717,Medicine,Apollo Pharmacy
+1000,2245,23-03-2024,Sec 4,678478,Electronics,Samsung Store
+1000,179,27-02-2024,Sec 1,824586,Transport,Lyft
+1000,395,08-07-2024,Sec 5,679364,Transport,BlaBlaCar
+1000,1144,22-01-2024,Sec 3,482364,Food,KFC
+1000,1820,07-05-2024,Sec 1,470858,Miscellaneous,Myntra
+1000,1366,01-05-2024,Sec 2,938742,Transport,BlaBlaCar
+1000,303,01-04-2024,Sec 3,920391,Electronics,Reliance Digital
+1000,2285,22-03-2024,Sec 1,501124,Food,Pizza Hut
+1000,1922,12-04-2024,Sec 4,466643,Medicine,Apollo Pharmacy
+1000,1926,13-01-2024,Sec 2,517821,Medicine,Netmeds
+1000,668,22-05-2024,Sec 3,772642,Miscellaneous,Myntra
+1000,4492,18-06-2024,Sec 1,220944,Medicine,Apollo Pharmacy
+1000,4856,15-05-2024,Sec 1,213668,Miscellaneous,Myntra
+1000,2931,09-06-2024,Sec 4,735656,Miscellaneous,Amazon
+1000,3255,07-04-2024,Sec 3,146542,Electronics,Croma
+1000,4359,10-04-2024,Sec 3,552248,Food,KFC
+1000,2671,04-03-2024,Sec 3,631756,Medicine,MedPlus
+1000,2772,25-07-2024,Sec 3,681343,Transport,Ola
+1000,3544,13-07-2024,Sec 2,745414,Miscellaneous,Snapdeal
+1000,3426,01-01-2024,Sec 3,400850,Transport,BlaBlaCar
+1000,4851,13-06-2024,Sec 4,563246,Electronics,Reliance Digital
+1000,4287,30-08-2024,Sec 2,790855,Food,KFC
+1000,4322,20-06-2024,Sec 1,958179,Transport,Zoomcar
+1000,1940,11-04-2024,Sec 2,125611,Food,McDonald's
+1000,3992,07-02-2024,Sec 4,534572,Miscellaneous,Flipkart
+1000,3245,10-09-2024,Sec 4,355836,Transport,Uber
+1000,973,05-08-2024,Sec 2,284430,Miscellaneous,Myntra
+1000,511,07-05-2024,Sec 1,578634,Transport,BlaBlaCar
+1000,4451,11-06-2024,Sec 4,742412,Miscellaneous,Myntra
+1000,4588,16-08-2024,Sec 2,879779,Electronics,Mi Store
+1000,2223,06-05-2024,Sec 3,903013,Miscellaneous,Myntra
+1000,2059,20-05-2024,Sec 4,181247,Medicine,Apollo Pharmacy
+1000,2325,20-06-2024,Sec 3,666390,Food,McDonald's
+1000,1335,28-04-2024,Sec 4,827659,Transport,Ola
+1000,626,31-07-2024,Sec 4,446954,Miscellaneous,Myntra
+1000,3506,01-02-2024,Sec 2,973349,Electronics,Mi Store
+1000,4884,11-01-2024,Sec 5,498858,Electronics,Croma
+1010,2981,01-06-2024,Sec 4,994905,Electronics,Samsung Store
+1010,4573,22-04-2024,Sec 4,330080,Medicine,MedPlus
+1010,4078,15-01-2024,Sec 4,452457,Electronics,Reliance Digital
+1010,3928,06-03-2024,Sec 5,660069,Food,Pizza Hut
+1010,4948,14-01-2024,Sec 1,773971,Electronics,Reliance Digital
+1010,3882,03-04-2024,Sec 1,372793,Electronics,Vijay Sales
+1010,1833,20-08-2024,Sec 3,453894,Electronics,Vijay Sales
+1010,3553,09-05-2024,Sec 1,593152,Food,Subway
+1010,526,28-06-2024,Sec 2,781725,Food,Dominos
+1010,354,06-05-2024,Sec 2,979995,Food,Subway
+1010,1348,02-05-2024,Sec 2,596564,Food,Subway
+1010,1885,26-08-2024,Sec 3,904150,Medicine,Apollo Pharmacy
+1010,1038,24-03-2024,Sec 3,213349,Miscellaneous,Amazon
+1010,2655,11-07-2024,Sec 4,849747,Transport,Uber
+1010,4950,04-05-2024,Sec 1,831059,Medicine,1mg Pharmacy
+1010,1091,22-01-2024,Sec 3,658623,Electronics,Vijay Sales
+1010,664,16-09-2024,Sec 3,113266,Electronics,Mi Store
+1010,964,09-08-2024,Sec 3,766459,Electronics,Reliance Digital
+1010,3667,31-03-2024,Sec 5,782054,Medicine,1mg Pharmacy
+1010,4508,04-09-2024,Sec 4,556732,Miscellaneous,Snapdeal
+1010,2740,05-05-2024,Sec 1,392477,Electronics,Reliance Digital
+1010,3906,13-07-2024,Sec 3,130094,Electronics,Vijay Sales
+1010,1589,06-09-2024,Sec 2,472060,Medicine,Netmeds
+1010,2390,21-05-2024,Sec 5,110644,Miscellaneous,Flipkart
+1010,801,03-05-2024,Sec 4,612311,Miscellaneous,Flipkart
+1010,4000,08-09-2024,Sec 4,931450,Food,Dominos
+1010,2510,23-04-2024,Sec 4,825391,Transport,Zoomcar
+1010,4864,07-07-2024,Sec 4,680358,Miscellaneous,Snapdeal
+1010,3585,18-06-2024,Sec 3,836996,Electronics,Vijay Sales
+1010,2611,08-05-2024,Sec 2,226516,Transport,Zoomcar
+1010,1079,04-04-2024,Sec 2,326895,Electronics,Vijay Sales
+1010,4929,25-09-2024,Sec 5,396745,Food,McDonald's
+1010,2526,26-04-2024,Sec 3,288158,Medicine,Tata 1mg
+1010,4475,05-03-2024,Sec 3,147726,Food,Subway
+1010,2493,05-03-2024,Sec 4,207570,Food,Subway
+1010,2429,28-08-2024,Sec 4,561865,Medicine,Apollo Pharmacy
+1010,520,09-05-2024,Sec 4,219629,Food,Pizza Hut
+1010,4128,07-02-2024,Sec 5,760021,Food,McDonald's
+1010,1322,04-06-2024,Sec 1,360247,Food,Subway
+1010,3509,25-04-2024,Sec 5,498855,Electronics,Mi Store
+1010,2535,07-08-2024,Sec 3,696251,Miscellaneous,Amazon
+1010,912,16-04-2024,Sec 2,377501,Food,McDonald's
+1010,2064,29-03-2024,Sec 5,178711,Transport,Uber
+1010,3446,18-08-2024,Sec 5,592738,Medicine,Tata 1mg
+1010,1996,27-05-2024,Sec 3,837135,Electronics,Croma
+1010,2012,15-05-2024,Sec 5,793300,Transport,BlaBlaCar
+1010,1040,25-04-2024,Sec 2,378535,Transport,Uber
+1010,588,25-03-2024,Sec 3,723948,Miscellaneous,Snapdeal
+1010,3697,04-03-2024,Sec 4,822131,Medicine,MedPlus
+1010,2330,13-09-2024,Sec 5,617781,Electronics,Croma
+1010,4999,21-01-2024,Sec 4,870214,Medicine,1mg Pharmacy
+1010,2151,14-01-2024,Sec 1,340044,Miscellaneous,Jabong
+1010,269,17-05-2024,Sec 5,142185,Transport,BlaBlaCar
+1010,4351,14-08-2024,Sec 3,290305,Miscellaneous,Myntra
+1010,4128,16-02-2024,Sec 4,464863,Electronics,Vijay Sales
+1010,2730,23-02-2024,Sec 2,445824,Electronics,Mi Store
+1010,2461,24-07-2024,Sec 5,138479,Electronics,Croma
+1010,2676,09-05-2024,Sec 3,221552,Electronics,Samsung Store
+1010,109,24-08-2024,Sec 4,156837,Transport,Lyft
+1010,3063,12-09-2024,Sec 4,896907,Food,McDonald's
+1010,2287,08-03-2024,Sec 3,559398,Electronics,Croma
+1010,336,02-05-2024,Sec 2,425845,Miscellaneous,Amazon
+1010,4624,27-07-2024,Sec 1,335615,Food,Pizza Hut
+1010,1062,19-03-2024,Sec 4,851413,Medicine,1mg Pharmacy
+1010,2339,31-07-2024,Sec 4,595158,Transport,BlaBlaCar
+1010,4615,15-03-2024,Sec 4,299869,Miscellaneous,Jabong
+1010,1218,05-02-2024,Sec 3,910208,Electronics,Vijay Sales
+1010,4259,16-05-2024,Sec 1,396578,Medicine,1mg Pharmacy
+1010,4850,07-09-2024,Sec 2,568238,Miscellaneous,Myntra
+1010,2927,19-06-2024,Sec 5,899929,Miscellaneous,Myntra
+1010,3830,13-06-2024,Sec 2,831380,Transport,Lyft
+1010,3237,29-04-2024,Sec 4,145767,Medicine,MedPlus
+1010,3223,16-07-2024,Sec 2,619389,Food,McDonald's
+1010,4214,18-06-2024,Sec 1,986088,Electronics,Croma
+1010,4408,21-08-2024,Sec 1,857537,Transport,BlaBlaCar
+1010,1364,08-02-2024,Sec 4,919488,Medicine,Netmeds
+1010,3356,11-02-2024,Sec 3,993744,Miscellaneous,Myntra
+1010,2694,06-09-2024,Sec 5,137642,Miscellaneous,Amazon
+1010,2023,27-05-2024,Sec 2,883041,Food,Pizza Hut
+1010,906,21-02-2024,Sec 4,274446,Medicine,Tata 1mg
+1010,476,15-06-2024,Sec 1,407618,Medicine,Netmeds
+1010,3628,15-03-2024,Sec 2,656968,Electronics,Samsung Store
+1010,1575,28-03-2024,Sec 2,182804,Miscellaneous,Myntra
+1010,2072,11-09-2024,Sec 5,250069,Transport,BlaBlaCar
+1010,2180,23-08-2024,Sec 3,799233,Food,Pizza Hut
+1010,2456,21-03-2024,Sec 1,563187,Medicine,1mg Pharmacy
+1010,2550,05-08-2024,Sec 3,579027,Medicine,Apollo Pharmacy
+1010,3251,04-09-2024,Sec 1,348728,Electronics,Samsung Store
+1010,3040,31-05-2024,Sec 3,123005,Electronics,Vijay Sales
+1010,166,26-01-2024,Sec 5,881369,Electronics,Vijay Sales
+1010,1985,29-06-2024,Sec 2,767542,Transport,Lyft
+1010,2153,11-03-2024,Sec 1,757937,Food,KFC
+1010,3711,18-01-2024,Sec 5,482584,Transport,Uber
+1010,2517,16-06-2024,Sec 4,284171,Transport,Ola
+1010,4518,06-07-2024,Sec 5,626169,Medicine,Apollo Pharmacy
+1010,2205,03-09-2024,Sec 3,882824,Medicine,Tata 1mg
+1010,3936,08-02-2024,Sec 2,890785,Transport,BlaBlaCar
+1010,4665,06-07-2024,Sec 1,929090,Electronics,Croma
+1010,2266,04-03-2024,Sec 4,486490,Medicine,1mg Pharmacy
+1010,3221,09-07-2024,Sec 1,807617,Transport,BlaBlaCar
+1020,305,16-06-2024,Sec 5,332120,Food,Pizza Hut
+1020,2575,28-07-2024,Sec 1,246566,Food,Dominos
+1020,2593,09-09-2024,Sec 1,201913,Transport,Lyft
+1020,1211,17-07-2024,Sec 4,489033,Miscellaneous,Myntra
+1020,4911,20-03-2024,Sec 4,786735,Food,Pizza Hut
+1020,3443,23-05-2024,Sec 1,823811,Medicine,Apollo Pharmacy
+1020,3732,15-08-2024,Sec 2,997004,Medicine,Tata 1mg
+1020,3109,02-07-2024,Sec 1,517479,Medicine,Apollo Pharmacy
+1020,1100,20-08-2024,Sec 1,794963,Transport,Lyft
+1020,274,26-01-2024,Sec 3,355400,Transport,Lyft
+1020,1781,05-02-2024,Sec 5,317220,Miscellaneous,Flipkart
+1020,2008,17-06-2024,Sec 2,926952,Miscellaneous,Amazon
+1020,2371,15-03-2024,Sec 2,666456,Medicine,Apollo Pharmacy
+1020,1000,14-01-2024,Sec 2,115582,Medicine,Apollo Pharmacy
+1020,4923,14-06-2024,Sec 1,282710,Medicine,Tata 1mg
+1020,1138,03-08-2024,Sec 5,219169,Food,Pizza Hut
+1020,3772,04-07-2024,Sec 5,722503,Food,Pizza Hut
+1020,4227,23-04-2024,Sec 5,145471,Miscellaneous,Snapdeal
+1020,3852,16-01-2024,Sec 1,602248,Electronics,Mi Store
+1020,984,08-09-2024,Sec 4,177060,Food,KFC
+1020,1315,03-02-2024,Sec 2,388375,Miscellaneous,Jabong
+1020,4592,15-06-2024,Sec 4,726410,Miscellaneous,Snapdeal
+1020,3816,15-09-2024,Sec 5,551096,Food,Dominos
+1020,4616,20-04-2024,Sec 4,573489,Transport,BlaBlaCar
+1020,2876,20-08-2024,Sec 4,536196,Food,KFC
+1020,3596,09-06-2024,Sec 3,492483,Transport,BlaBlaCar
+1020,649,16-02-2024,Sec 1,197758,Electronics,Croma
+1020,3152,07-03-2024,Sec 5,162894,Miscellaneous,Jabong
+1020,4701,17-06-2024,Sec 1,530764,Medicine,MedPlus
+1020,521,27-05-2024,Sec 5,427626,Medicine,Tata 1mg
+1020,4834,16-09-2024,Sec 2,262246,Electronics,Reliance Digital
+1020,986,28-06-2024,Sec 5,485415,Food,KFC
+1020,4803,25-04-2024,Sec 4,986209,Miscellaneous,Jabong
+1020,4660,14-01-2024,Sec 5,789786,Medicine,Tata 1mg
+1020,1577,19-05-2024,Sec 3,456331,Medicine,Tata 1mg
+1020,1586,14-03-2024,Sec 5,789275,Electronics,Croma
+1020,1262,16-01-2024,Sec 1,882354,Miscellaneous,Flipkart
+1020,3181,02-08-2024,Sec 4,457455,Transport,Zoomcar
+1020,2652,15-06-2024,Sec 5,725185,Food,Dominos
+1020,1374,21-03-2024,Sec 5,152179,Food,KFC
+1020,3729,05-08-2024,Sec 4,736565,Electronics,Mi Store
+1020,2337,20-04-2024,Sec 5,219346,Medicine,MedPlus
+1020,1008,25-05-2024,Sec 5,610271,Miscellaneous,Snapdeal
+1020,472,22-04-2024,Sec 4,728437,Food,Dominos
+1020,1774,03-06-2024,Sec 2,904624,Transport,Zoomcar
+1020,2471,16-06-2024,Sec 1,108105,Electronics,Mi Store
+1020,1539,07-03-2024,Sec 4,658453,Transport,Lyft
+1020,4677,30-06-2024,Sec 1,516359,Food,Pizza Hut
+1020,253,23-08-2024,Sec 1,428267,Miscellaneous,Myntra
+1020,4797,26-07-2024,Sec 4,403578,Food,Pizza Hut
+1020,270,15-06-2024,Sec 2,940247,Miscellaneous,Myntra
+1020,3064,15-02-2024,Sec 4,985506,Food,McDonald's
+1020,3669,24-07-2024,Sec 5,182467,Electronics,Vijay Sales
+1020,2881,23-04-2024,Sec 3,916964,Transport,Uber
+1020,4281,28-02-2024,Sec 5,634723,Transport,Zoomcar
+1020,2976,16-03-2024,Sec 2,207798,Transport,Zoomcar
+1020,1716,29-03-2024,Sec 5,260295,Food,McDonald's
+1020,4147,25-08-2024,Sec 5,896788,Miscellaneous,Myntra
+1020,4724,14-06-2024,Sec 3,258290,Electronics,Croma
+1020,3941,14-08-2024,Sec 3,935012,Medicine,1mg Pharmacy
+1020,560,29-06-2024,Sec 5,177794,Medicine,MedPlus
+1020,3802,20-01-2024,Sec 1,486649,Medicine,Tata 1mg
+1020,839,16-09-2024,Sec 4,585188,Miscellaneous,Jabong
+1020,436,18-08-2024,Sec 5,783501,Transport,Zoomcar
+1020,3996,13-09-2024,Sec 2,164879,Electronics,Croma
+1020,2913,13-02-2024,Sec 5,777513,Transport,Uber
+1020,2129,12-08-2024,Sec 4,649525,Miscellaneous,Jabong
+1020,1400,05-07-2024,Sec 3,396635,Electronics,Mi Store
+1020,2871,27-01-2024,Sec 3,169113,Medicine,Tata 1mg
+1020,4670,16-07-2024,Sec 3,364236,Miscellaneous,Flipkart
+1020,2830,11-02-2024,Sec 5,795847,Transport,Zoomcar
+1020,2641,19-07-2024,Sec 2,723945,Food,KFC
+1020,4678,11-07-2024,Sec 3,952686,Transport,Lyft
+1020,865,04-08-2024,Sec 5,479404,Food,KFC
+1020,2630,02-04-2024,Sec 2,458332,Electronics,Reliance Digital
+1020,1955,11-03-2024,Sec 2,180913,Medicine,Tata 1mg
+1020,4258,26-09-2024,Sec 1,794083,Medicine,1mg Pharmacy
+1020,1173,11-07-2024,Sec 2,270128,Transport,Lyft
+1020,1456,12-08-2024,Sec 1,530816,Medicine,Apollo Pharmacy
+1020,3738,25-05-2024,Sec 4,345369,Miscellaneous,Flipkart
+1020,2635,28-08-2024,Sec 2,485709,Miscellaneous,Myntra
+1020,3882,24-05-2024,Sec 4,627335,Miscellaneous,Myntra
+1020,1427,12-04-2024,Sec 5,245121,Medicine,Tata 1mg
+1020,4036,09-07-2024,Sec 5,207573,Miscellaneous,Amazon
+1020,2435,12-02-2024,Sec 2,386042,Electronics,Samsung Store
+1020,1307,11-08-2024,Sec 1,332823,Electronics,Vijay Sales
+1020,318,31-07-2024,Sec 1,515712,Miscellaneous,Snapdeal
+1020,2031,16-07-2024,Sec 1,493124,Transport,Uber
+1020,2710,20-02-2024,Sec 3,929822,Transport,Ola
+1020,413,26-05-2024,Sec 4,829884,Transport,BlaBlaCar
+1020,3774,03-01-2024,Sec 1,119927,Medicine,Apollo Pharmacy
+1020,1324,27-09-2024,Sec 4,216587,Medicine,Apollo Pharmacy
+1020,2567,03-03-2024,Sec 1,350021,Electronics,Samsung Store
+1020,3844,02-02-2024,Sec 1,977330,Electronics,Samsung Store
+1020,4491,09-01-2024,Sec 5,702980,Transport,Ola
+1020,2486,07-08-2024,Sec 1,744674,Medicine,Apollo Pharmacy
+1020,4774,01-08-2024,Sec 2,796643,Food,Subway
+1020,3054,04-02-2024,Sec 5,670511,Miscellaneous,Jabong
+1020,4639,11-01-2024,Sec 4,592972,Food,Pizza Hut
+1020,3158,09-05-2024,Sec 1,474440,Food,KFC
+1030,2075,23-02-2024,Sec 5,870899,Medicine,Apollo Pharmacy
+1030,463,29-06-2024,Sec 5,454992,Transport,BlaBlaCar
+1030,4020,03-04-2024,Sec 2,166165,Electronics,Croma
+1030,2503,13-04-2024,Sec 1,929538,Transport,Uber
+1030,2685,07-06-2024,Sec 5,517568,Miscellaneous,Myntra
+1030,2175,19-01-2024,Sec 2,400009,Medicine,Tata 1mg
+1030,2819,19-05-2024,Sec 1,938171,Medicine,MedPlus
+1030,3376,13-08-2024,Sec 4,455505,Transport,BlaBlaCar
+1030,4175,07-07-2024,Sec 5,379676,Food,Pizza Hut
+1030,746,08-08-2024,Sec 5,962287,Transport,Lyft
+1030,2506,13-06-2024,Sec 1,183958,Medicine,Netmeds
+1030,2610,16-08-2024,Sec 5,852524,Electronics,Reliance Digital
+1030,3736,28-06-2024,Sec 4,144412,Medicine,1mg Pharmacy
+1030,3663,20-05-2024,Sec 1,178686,Electronics,Vijay Sales
+1030,4303,22-03-2024,Sec 1,249715,Miscellaneous,Myntra
+1030,385,05-03-2024,Sec 1,347459,Medicine,Netmeds
+1030,3236,17-01-2024,Sec 5,260891,Electronics,Vijay Sales
+1030,3147,15-08-2024,Sec 1,701800,Transport,Lyft
+1030,3106,22-07-2024,Sec 3,781113,Medicine,Apollo Pharmacy
+1030,1029,14-01-2024,Sec 2,623285,Miscellaneous,Myntra
+1030,4701,01-03-2024,Sec 3,912609,Medicine,MedPlus
+1030,1857,26-05-2024,Sec 4,309902,Food,McDonald's
+1030,706,19-08-2024,Sec 2,848022,Electronics,Croma
+1030,2718,26-06-2024,Sec 1,676713,Miscellaneous,Snapdeal
+1030,2557,21-03-2024,Sec 2,932250,Medicine,1mg Pharmacy
+1030,1936,03-03-2024,Sec 2,930541,Transport,Ola
+1030,4147,14-01-2024,Sec 3,680933,Miscellaneous,Snapdeal
+1030,3928,07-03-2024,Sec 5,190403,Food,KFC
+1030,3361,02-09-2024,Sec 5,530749,Electronics,Samsung Store
+1030,704,05-03-2024,Sec 3,773540,Food,Pizza Hut
+1030,3916,21-09-2024,Sec 3,234568,Miscellaneous,Jabong
+1030,1590,07-03-2024,Sec 4,627290,Food,Dominos
+1030,4344,19-03-2024,Sec 3,272655,Transport,Zoomcar
+1030,1947,26-06-2024,Sec 5,397846,Food,KFC
+1030,1708,20-05-2024,Sec 2,755383,Medicine,1mg Pharmacy
+1030,4470,17-02-2024,Sec 5,772124,Transport,Lyft
+1030,4856,19-03-2024,Sec 2,790731,Miscellaneous,Jabong
+1030,2865,22-01-2024,Sec 1,185168,Food,Subway
+1030,2268,17-04-2024,Sec 5,536822,Miscellaneous,Amazon
+1030,4179,28-05-2024,Sec 3,606404,Transport,BlaBlaCar
+1030,2536,20-08-2024,Sec 1,822063,Food,McDonald's
+1030,3701,31-07-2024,Sec 4,587002,Transport,Zoomcar
+1030,1276,09-06-2024,Sec 3,869864,Medicine,MedPlus
+1030,1171,08-07-2024,Sec 5,688933,Food,KFC
+1030,2080,26-08-2024,Sec 1,380464,Electronics,Reliance Digital
+1030,1254,19-02-2024,Sec 1,404309,Electronics,Samsung Store
+1030,3525,07-05-2024,Sec 2,952993,Medicine,1mg Pharmacy
+1030,2661,07-04-2024,Sec 2,622469,Miscellaneous,Myntra
+1030,4185,06-06-2024,Sec 4,124302,Food,Pizza Hut
+1030,4240,22-08-2024,Sec 2,325595,Miscellaneous,Snapdeal
+1030,498,26-01-2024,Sec 3,618934,Miscellaneous,Myntra
+1030,2440,05-01-2024,Sec 1,551860,Transport,Zoomcar
+1030,3096,25-07-2024,Sec 3,147440,Electronics,Croma
+1030,4771,09-04-2024,Sec 3,680096,Medicine,Tata 1mg
+1030,3264,15-09-2024,Sec 4,901535,Miscellaneous,Snapdeal
+1030,1073,06-03-2024,Sec 1,513037,Medicine,Netmeds
+1030,4669,06-07-2024,Sec 2,308727,Miscellaneous,Jabong
+1030,3388,13-09-2024,Sec 1,147504,Food,McDonald's
+1030,2828,30-08-2024,Sec 5,579187,Transport,Lyft
+1030,4323,12-03-2024,Sec 3,742848,Medicine,Apollo Pharmacy
+1030,3319,02-06-2024,Sec 5,452713,Miscellaneous,Jabong
+1030,4460,07-09-2024,Sec 5,414353,Electronics,Croma
+1030,3117,18-06-2024,Sec 1,536774,Miscellaneous,Snapdeal
+1030,318,30-08-2024,Sec 3,787436,Miscellaneous,Jabong
+1030,1964,27-01-2024,Sec 5,603787,Transport,Lyft
+1030,3214,16-03-2024,Sec 2,133104,Miscellaneous,Amazon
+1030,1662,10-01-2024,Sec 4,428930,Electronics,Reliance Digital
+1030,3482,14-04-2024,Sec 4,626195,Miscellaneous,Myntra
+1030,610,11-03-2024,Sec 5,317413,Miscellaneous,Snapdeal
+1030,4018,26-09-2024,Sec 4,428993,Transport,BlaBlaCar
+1030,4467,24-06-2024,Sec 5,471496,Medicine,1mg Pharmacy
+1030,4066,08-04-2024,Sec 2,392559,Miscellaneous,Snapdeal
+1030,1942,01-06-2024,Sec 3,839142,Transport,BlaBlaCar
+1030,2697,02-09-2024,Sec 3,687713,Medicine,Netmeds
+1030,1098,13-07-2024,Sec 4,958130,Medicine,Apollo Pharmacy
+1030,2479,22-01-2024,Sec 3,848831,Food,KFC
+1030,3723,11-05-2024,Sec 4,324381,Transport,Lyft
+1030,2321,19-05-2024,Sec 2,214532,Miscellaneous,Jabong
+1030,2060,04-05-2024,Sec 1,802371,Miscellaneous,Flipkart
+1030,2007,27-01-2024,Sec 1,533377,Medicine,MedPlus
+1030,923,11-03-2024,Sec 1,677086,Transport,BlaBlaCar
+1030,3996,01-09-2024,Sec 2,892630,Medicine,Netmeds
+1030,2438,31-01-2024,Sec 1,783984,Miscellaneous,Flipkart
+1030,4483,20-01-2024,Sec 2,538184,Transport,Uber
+1030,3352,10-09-2024,Sec 2,885386,Medicine,Tata 1mg
+1030,175,01-06-2024,Sec 5,732063,Food,KFC
+1030,2431,20-08-2024,Sec 5,649787,Electronics,Reliance Digital
+1030,4230,27-08-2024,Sec 3,302177,Food,KFC
+1030,1431,22-08-2024,Sec 3,853504,Transport,Uber
+1030,2861,31-05-2024,Sec 5,807160,Transport,Ola
+1030,3421,06-08-2024,Sec 5,443856,Food,Pizza Hut
+1030,881,04-04-2024,Sec 2,600646,Medicine,Apollo Pharmacy
+1030,155,13-05-2024,Sec 4,346961,Electronics,Vijay Sales
+1030,2800,03-06-2024,Sec 5,857997,Miscellaneous,Amazon
+1030,2242,03-07-2024,Sec 2,165142,Food,Pizza Hut
+1030,2613,22-03-2024,Sec 4,819400,Miscellaneous,Snapdeal
+1030,1061,31-05-2024,Sec 3,744481,Transport,Ola
+1030,1194,01-09-2024,Sec 2,577079,Miscellaneous,Snapdeal
+1030,3506,29-08-2024,Sec 5,940952,Transport,Ola
+1030,4980,11-02-2024,Sec 5,568449,Miscellaneous,Snapdeal
+1040,739,27-02-2024,Sec 1,969032,Miscellaneous,Jabong
+1040,1756,17-03-2024,Sec 2,444056,Miscellaneous,Myntra
+1040,1052,15-04-2024,Sec 5,612573,Food,Subway
+1040,3749,29-01-2024,Sec 4,238353,Miscellaneous,Myntra
+1040,3842,30-01-2024,Sec 5,584838,Medicine,Tata 1mg
+1040,3343,10-05-2024,Sec 1,882032,Transport,Lyft
+1040,698,24-01-2024,Sec 4,461264,Food,Subway
+1040,593,05-02-2024,Sec 4,133276,Medicine,MedPlus
+1040,1574,10-03-2024,Sec 4,492650,Electronics,Mi Store
+1040,3192,11-07-2024,Sec 1,815894,Miscellaneous,Flipkart
+1040,2948,01-03-2024,Sec 2,663356,Electronics,Samsung Store
+1040,1143,24-04-2024,Sec 1,892911,Food,KFC
+1040,3892,05-08-2024,Sec 5,497700,Transport,Ola
+1040,3873,26-06-2024,Sec 2,389039,Transport,Uber
+1040,363,02-08-2024,Sec 5,903265,Food,McDonald's
+1040,1788,04-02-2024,Sec 1,722795,Food,Pizza Hut
+1040,4997,25-01-2024,Sec 2,876513,Food,Pizza Hut
+1040,3695,29-04-2024,Sec 5,327823,Food,McDonald's
+1040,4227,28-05-2024,Sec 2,955413,Miscellaneous,Snapdeal
+1040,4830,13-06-2024,Sec 2,416422,Transport,Lyft
+1040,1910,30-07-2024,Sec 3,388519,Food,Subway
+1040,4946,30-03-2024,Sec 4,682851,Electronics,Croma
+1040,2921,14-07-2024,Sec 5,434217,Electronics,Mi Store
+1040,1322,02-06-2024,Sec 4,292811,Miscellaneous,Myntra
+1040,2074,25-04-2024,Sec 3,999197,Transport,BlaBlaCar
+1040,572,30-07-2024,Sec 4,684357,Miscellaneous,Flipkart
+1040,3281,04-05-2024,Sec 3,313214,Medicine,Tata 1mg
+1040,3784,08-07-2024,Sec 1,661654,Transport,Uber
+1040,2299,12-07-2024,Sec 5,732209,Food,Dominos
+1040,1641,21-04-2024,Sec 4,319036,Medicine,Netmeds
+1040,225,18-04-2024,Sec 2,877493,Food,Pizza Hut
+1040,2087,14-04-2024,Sec 4,350956,Miscellaneous,Snapdeal
+1040,2418,13-07-2024,Sec 4,659572,Medicine,Netmeds
+1040,2242,03-07-2024,Sec 5,621433,Electronics,Croma
+1040,3946,12-06-2024,Sec 2,488712,Medicine,MedPlus
+1040,474,23-04-2024,Sec 2,117007,Medicine,1mg Pharmacy
+1040,4884,01-08-2024,Sec 3,259814,Transport,Zoomcar
+1040,1984,13-07-2024,Sec 5,973844,Transport,BlaBlaCar
+1040,4610,21-06-2024,Sec 3,900441,Electronics,Mi Store
+1040,3875,27-03-2024,Sec 3,277487,Transport,Lyft
+1040,4100,04-04-2024,Sec 5,772985,Food,Subway
+1040,377,08-02-2024,Sec 1,901467,Food,Pizza Hut
+1040,1226,28-04-2024,Sec 1,841521,Transport,Uber
+1040,1891,15-09-2024,Sec 4,491329,Food,Subway
+1040,4058,06-09-2024,Sec 1,106933,Miscellaneous,Jabong
+1040,3469,07-01-2024,Sec 1,655134,Medicine,1mg Pharmacy
+1040,2448,09-01-2024,Sec 5,952657,Electronics,Reliance Digital
+1040,976,19-02-2024,Sec 5,256130,Transport,Ola
+1040,4412,09-05-2024,Sec 3,380310,Electronics,Croma
+1040,3156,26-07-2024,Sec 4,692447,Transport,Ola
+1040,2557,11-02-2024,Sec 1,198042,Electronics,Mi Store
+1040,3189,31-08-2024,Sec 1,767678,Food,McDonald's
+1040,777,12-09-2024,Sec 4,776234,Medicine,1mg Pharmacy
+1040,881,27-09-2024,Sec 1,340927,Transport,Lyft
+1040,3995,18-05-2024,Sec 1,177959,Medicine,1mg Pharmacy
+1040,4716,17-01-2024,Sec 2,991737,Medicine,Tata 1mg
+1040,1797,14-03-2024,Sec 4,180674,Medicine,Apollo Pharmacy
+1040,4719,03-05-2024,Sec 5,975194,Electronics,Samsung Store
+1040,2817,15-07-2024,Sec 2,928897,Food,Subway
+1040,2933,28-01-2024,Sec 1,558320,Transport,Uber
+1040,2890,22-07-2024,Sec 3,131064,Medicine,MedPlus
+1040,4119,26-04-2024,Sec 3,679902,Electronics,Mi Store
+1040,1621,13-07-2024,Sec 1,909676,Miscellaneous,Snapdeal
+1040,2118,07-02-2024,Sec 1,380989,Transport,BlaBlaCar
+1040,1363,18-07-2024,Sec 3,478221,Food,Dominos
+1040,142,06-06-2024,Sec 4,477400,Medicine,Tata 1mg
+1040,1185,14-02-2024,Sec 2,551914,Electronics,Samsung Store
+1040,4644,19-09-2024,Sec 4,208310,Food,Dominos
+1040,2999,17-02-2024,Sec 5,727094,Medicine,MedPlus
+1040,201,29-05-2024,Sec 4,506637,Food,Subway
+1040,2088,23-09-2024,Sec 2,818605,Electronics,Reliance Digital
+1040,1237,17-05-2024,Sec 3,381444,Electronics,Reliance Digital
+1040,618,26-03-2024,Sec 4,389366,Electronics,Vijay Sales
+1040,4066,09-02-2024,Sec 3,363926,Transport,BlaBlaCar
+1040,4964,10-04-2024,Sec 4,212168,Transport,Zoomcar
+1040,155,21-07-2024,Sec 3,982495,Miscellaneous,Myntra
+1040,2799,13-08-2024,Sec 3,551533,Miscellaneous,Flipkart
+1040,2561,13-06-2024,Sec 5,829066,Transport,BlaBlaCar
+1040,2673,31-03-2024,Sec 4,434640,Medicine,MedPlus
+1040,4817,04-05-2024,Sec 3,494322,Medicine,MedPlus
+1040,3090,28-02-2024,Sec 5,309505,Miscellaneous,Jabong
+1040,1573,14-01-2024,Sec 4,842776,Transport,BlaBlaCar
+1040,2486,05-02-2024,Sec 4,805668,Electronics,Reliance Digital
+1040,2580,03-05-2024,Sec 3,790658,Transport,BlaBlaCar
+1040,3188,07-02-2024,Sec 4,726979,Electronics,Samsung Store
+1040,3383,30-09-2024,Sec 5,825309,Electronics,Samsung Store
+1040,401,03-07-2024,Sec 5,722665,Food,Dominos
+1040,2133,30-06-2024,Sec 2,778428,Miscellaneous,Amazon
+1040,4713,23-07-2024,Sec 3,934908,Electronics,Croma
+1040,186,20-02-2024,Sec 3,332785,Miscellaneous,Jabong
+1040,4671,23-04-2024,Sec 4,492292,Electronics,Mi Store
+1040,4921,13-09-2024,Sec 2,461724,Food,Pizza Hut
+1040,956,31-05-2024,Sec 4,190025,Food,McDonald's
+1040,2953,08-06-2024,Sec 3,577450,Transport,Lyft
+1040,4056,27-06-2024,Sec 4,202365,Electronics,Mi Store
+1040,2712,04-02-2024,Sec 3,146853,Food,Dominos
+1040,2910,25-02-2024,Sec 2,876459,Transport,Lyft
+1040,1529,22-03-2024,Sec 3,687044,Electronics,Mi Store
+1040,1999,26-07-2024,Sec 2,295440,Electronics,Mi Store
+1040,339,11-04-2024,Sec 4,720970,Electronics,Mi Store
