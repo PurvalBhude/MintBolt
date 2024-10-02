@@ -111,37 +111,3 @@ This Kotlin application features a chatbot designed to assist users with various
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
 
-Install Required Libraries
-Make sure you have Python installed. If not, install it from the official Python website.
-
-Once you have Python installed, you can install the required libraries for your Flask app by using pip. Assuming you already have a requirements.txt file or want to manually install each dependency, follow these steps:
-
-Option 1: Using requirements.txt
-If you have a requirements.txt file that lists all the dependencies for your Flask application, simply run the following command to install them:
-
-pip install -r requirements.txt
-
-Option 2: Manually Installing Dependencies
-You can manually install each required library as listed below:
-
-Flask: For creating the web app.
-
-pip install Flask
-pandas: For handling data (used for CSV or Excel file processing).
-
-pip install pandas
-matplotlib: For generating graphs or tables in your Flask app.
-
-pip install matplotlib
-io: This is a built-in Python library, so you don't need to install it separately.
-
-base64: Also a built-in Python library, no need to install.
-
-re: A built-in module for working with regular expressions.
-
-openpyxl: For reading and writing Excel files (optional if you're working with .xlsx files).
-
-pip install openpyxl
-jsonify (Flask library): This is included when you install Flask.
-
-SSH for Port Tunneling: You don't need to install anything for SSH port tunneling as it's built into most Unix-based systems like Linux and macOS. For Windows, you can use tools like PuTTY or install OpenSSH.
