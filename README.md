@@ -12,7 +12,6 @@ This Kotlin application features a chatbot designed to assist users with various
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -162,3 +161,10 @@ You can manually install each required library as listed below:
 ## SSH for Port Tunneling
 
 You don't need to install anything for SSH port tunneling as it's built into most Unix-based systems like Linux and macOS. For Windows, you can use tools like PuTTY or install OpenSSH.
+
+##Usage
+Interact with the chatbot via the provided API endpoints.
+Use Postman or any HTTP client to send requests to the local API.
+
+##Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any changes or improvements.
