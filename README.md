@@ -166,6 +166,12 @@ You don't need to install anything for SSH port tunneling as it's built into mos
 
 To set up the API on localhost for my Android app, I first created five separate files, each designed to handle different chatbot queries. These files run on different ports to manage specific requests. It’s crucial that both the mobile device running the Android app and the laptop running the API files are connected to the same local network, such as Wi-Fi. To start the API servers on the laptop, I ran each file on its designated port using commands like python chatbot_query1.py --port 5001 and so on for the other files. In the Android app, I configured the API base URL to point to the laptop’s local IP address and the respective ports. For instance, if the laptop’s IP address is 192.168.1.100, the base URL for the first chatbot query would be http://192.168.1.100:5001. Finally, I tested the setup by running the Android app to ensure it could successfully make API calls to the localhost servers on the laptop, verifying that each chatbot query was handled correctly by the respective API file.
 
+## Login Information
+To log in to the Flask app, use the following credentials:
+
+ID: 1000
+Password: 2000
+
 ## Usage
 Interact with the chatbot via the provided API endpoints.
 Use Postman or any HTTP client to send requests to the local API.
