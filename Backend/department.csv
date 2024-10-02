@@ -1,4 +1,4 @@
-emp_id,department_id,department
+employee_id,department_id,department
 1000,1,HR
 1001,1,HR
 1002,1,HR
