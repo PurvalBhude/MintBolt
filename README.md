@@ -169,8 +169,8 @@ To set up the API on localhost for my Android app, I first created five separate
 ## Login Information
 To log in to the app, use the following credentials:
 
-ID: 1000
-Password: 2000
+ID: 123
+Password: 12345
 
 ## Usage
 Interact with the chatbot via the provided API endpoints.
