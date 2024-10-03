@@ -13,6 +13,10 @@ This Kotlin application features a chatbot designed to assist users with various
 - [Usage](#usage)
 - [Contributing](#contributing)
 
+![22](https://github.com/user-attachments/assets/a355ad15-a57d-46cb-b881-f4184fdc351e)
+![12](https://github.com/user-attachments/assets/421edac9-e9f7-4913-a6dc-e4c678e99057)
+
+
 ## Features
 
 ### Transaction Management & Analysis
